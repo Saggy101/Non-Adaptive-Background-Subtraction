@@ -1,0 +1,17 @@
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\bin\Release\motion.exe.config
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\bin\Release\motion.exe
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\bin\Release\AForge.Imaging.dll
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\bin\Release\AForge.Math.dll
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\bin\Release\dshow.dll
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\bin\Release\Tiger.Video.VFW.dll
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\bin\Release\AForge.dll
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.csproj.AssemblyReference.cache
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.AboutForm.resources
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.CameraWindow.resources
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.CaptureDeviceForm.resources
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.MainForm.resources
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.URLForm.resources
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.csproj.GenerateResource.cache
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.csproj.CoreCompileInputs.cache
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.csproj.CopyComplete
+C:\Backup\NetwovenBusiness\SourceCode\motion_src\motion\obj\Release\motion.exe
