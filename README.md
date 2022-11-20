@@ -1,4 +1,4 @@
-# motion_src
+# Non adaptive background subtraction
 Non adaptive background subtraction
 
 
